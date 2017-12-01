@@ -6,7 +6,7 @@ namespace First
     class Circle
     {
         private double _r;
-        public double Radius
+        public double qwerty
         {
             get
             {
